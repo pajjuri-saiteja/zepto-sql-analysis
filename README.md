@@ -1,4 +1,3 @@
-<img width="1110" height="847" alt="low discount" src="https://github.com/user-attachments/assets/af76f0a6-c04a-4f15-bb9c-e9e1fae6b902" />
 # zepto-sql-analysis# Zepto E-Commerce Data Analysis (SQL + PostgreSQL)
 
 ## 📌 Project Overview
@@ -105,7 +104,8 @@ Examined inventory distribution across categories.
 
 
 ### Category-wise Revenue Analysis
-![Category Revenue](<img width="1080" height="775" alt="image" src="https://github.com/user-attachments/assets/546adb07-feb5-42b5-87bc-cfae6efda195" />)
+![Category Revenue](<img width="1080" height="775" alt="image" src="https://github.com/user-attachments/assets/546adb07-feb5-42b5-87bc-cfae6efda195" />
+)
 
 ### High-Value Out-of-Stock Products
 ![Out of Stock](screenshots/out_of_stock_products.png)
