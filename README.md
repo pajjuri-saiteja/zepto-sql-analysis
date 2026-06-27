@@ -104,8 +104,7 @@ Examined inventory distribution across categories.
 
 
 ### Category-wise Revenue Analysis
-![Category Revenue](<img width="1080" height="775" alt="image" src="https://github.com/user-attachments/assets/546adb07-feb5-42b5-87bc-cfae6efda195" />
-)
+![Category Revenue](https://github.com/pajjuri-saiteja/zepto-sql-analysis/blob/014aeed8f923da0b03c1e954515434b885c5976e/revenue.png)
 
 ### High-Value Out-of-Stock Products
 ![Out of Stock](screenshots/out_of_stock_products.png)
