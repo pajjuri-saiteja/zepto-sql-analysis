@@ -1,3 +1,4 @@
+<img width="1110" height="847" alt="low discount" src="https://github.com/user-attachments/assets/af76f0a6-c04a-4f15-bb9c-e9e1fae6b902" />
 # zepto-sql-analysis# Zepto E-Commerce Data Analysis (SQL + PostgreSQL)
 
 ## 📌 Project Overview
@@ -110,7 +111,8 @@ Examined inventory distribution across categories.
 ![Out of Stock](screenshots/out_of_stock_products.png)
 
 ### Premium Products with Low Discounts
-![Premium Products](screenshots/premium_products.png)
+![Premium Products](<img width="1110" height="847" alt="low discount" src="https://github.com/user-attachments/assets/18405a25-47b6-4fd8-8a1b-cf754015729d" />
+)
 
 ## 📊 Key Insights
 
