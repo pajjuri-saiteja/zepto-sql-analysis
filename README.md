@@ -107,7 +107,7 @@ Examined inventory distribution across categories.
 ![Category Revenue](https://github.com/pajjuri-saiteja/zepto-sql-analysis/blob/014aeed8f923da0b03c1e954515434b885c5976e/revenue.png)
 
 ### High-Value Out-of-Stock Products
-![Out of Stock](screenshots/out_of_stock_products.png)
+![Out of Stock](https://github.com/pajjuri-saiteja/zepto-sql-analysis/blob/7a5a5778de4cff5c67670bc68475c8885dea600f/products%20with%20high%20mrp.png)
 
 ### Premium Products with Low Discounts
 ![Premium Products](<img width="1110" height="847" alt="low discount" src="https://github.com/user-attachments/assets/18405a25-47b6-4fd8-8a1b-cf754015729d" />
