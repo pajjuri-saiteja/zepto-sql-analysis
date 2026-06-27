@@ -97,6 +97,20 @@ Investigated products appearing across multiple SKUs.
 Examined inventory distribution across categories.
 
 ---
+## 📸 Project Screenshots
+
+### Top 10 Products with Highest Discounts
+![Top Discounts](<img width="977" height="635" alt="top_10_discounts" src="https://github.com/user-attachments/assets/9c468d42-19e8-4f8a-bc67-b9c3656f3d1d" />)
+
+
+### Category-wise Revenue Analysis
+![Category Revenue](<img width="1080" height="775" alt="image" src="https://github.com/user-attachments/assets/546adb07-feb5-42b5-87bc-cfae6efda195" />)
+
+### High-Value Out-of-Stock Products
+![Out of Stock](screenshots/out_of_stock_products.png)
+
+### Premium Products with Low Discounts
+![Premium Products](screenshots/premium_products.png)
 
 ## 📊 Key Insights
 
