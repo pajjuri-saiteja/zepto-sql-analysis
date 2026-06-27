@@ -100,7 +100,7 @@ Examined inventory distribution across categories.
 ## 📸 Project Screenshots
 
 ### Top 10 Products with Highest Discounts
-![Top Discounts](<img width="977" height="635" alt="top_10_discounts" src="https://github.com/user-attachments/assets/9c468d42-19e8-4f8a-bc67-b9c3656f3d1d" />)
+![Top Discounts](https://github.com/pajjuri-saiteja/zepto-sql-analysis/blob/ab3900257ec3f4335b002388e6b72b52cb634650/low%20discount.png)
 
 
 ### Category-wise Revenue Analysis
