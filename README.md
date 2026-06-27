@@ -110,8 +110,7 @@ Examined inventory distribution across categories.
 ![Out of Stock](https://github.com/pajjuri-saiteja/zepto-sql-analysis/blob/7a5a5778de4cff5c67670bc68475c8885dea600f/products%20with%20high%20mrp.png)
 
 ### Premium Products with Low Discounts
-![Premium Products](<img width="1110" height="847" alt="low discount" src="https://github.com/user-attachments/assets/18405a25-47b6-4fd8-8a1b-cf754015729d" />
-)
+![Premium Products](https://github.com/pajjuri-saiteja/zepto-sql-analysis/blob/ab3900257ec3f4335b002388e6b72b52cb634650/low%20discount.png)
 
 ## 📊 Key Insights
 
